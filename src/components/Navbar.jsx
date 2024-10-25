@@ -50,9 +50,15 @@ function Navbar() {
                 </a>
                 <a
                   href="https://coinmarketcap.com/currencies/neirowifhatA" target="_blank"  rel="noreferrer"
+                  className=" text-xl text-black bg-[#ffffff] hover:bg-[#1a4093] hidden sm:block rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
+                >
+                 <img src="images/cmc.png" alt="" className=" w-auto h-5 " />
+                </a>
+                <a
+                  href="https://www.tiktok.com/@neirowifhat?_t=8qq0vacfLBm&_r=1" target="_blank"  rel="noreferrer"
                   className=" text-xl text-black bg-[#ffffff] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
-                 <img src="images/cmc.png" alt="" className=" w-auto h-5" />
+                 <IoLogoTiktok />
                 </a>
               </div>
         </div>
@@ -60,7 +66,7 @@ function Navbar() {
         {/* Hamburger menu for mobile */}
         <div className="md:hidden">
           <button
-            className="text-black focus:outline-none"
+            className="text-white focus:outline-none"
             onClick={() => setIsOpen(!isOpen)}
           >
             <svg
@@ -94,12 +100,13 @@ function Navbar() {
         {(ref) => (
           <div
             ref={ref}
-            className="md:hidden bg-white rounded-2xl border-2 border-[#000] px-2 pt-2 pb-3 space-y-1 m-4"
+            className="md:hidden bg-white rounded-2xl border-2 border-[#000] px-2 pt-2 pb-3 space-y-1 m-4 flex flex-col"
           >
-            <a href="/" className="text-black font-bold text-lg block px-3 py-2">Home</a>
-          
-            <a href="#about" className="text-black font-bold text-lg block px-3 py-2">About</a>
-            <a href="#col" className="text-black font-bold text-lg block px-3 py-2">Features</a>
+              <a href="/" className="text-[#be22f7] font-bold text-lg px-3 py-2">Home</a>
+          <a href="#about" className="text-[#be22f7] font-bold text-lg px-3 py-2">About</a>
+          <a href="#col" className="text-[#be22f7] font-bold text-lg px-3 py-2">Tokenomics</a>
+         
+          <a href="#contact" className="text-[#be22f7] font-bold text-lg px-3 py-2">Contact Us</a>
             
             <div className=" flex items-center gap-4 text-white mb-6 ml-5">
             <a
