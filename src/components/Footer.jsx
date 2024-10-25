@@ -1,5 +1,7 @@
 import { BsTwitterX,  } from "react-icons/bs";
 import {  FaTelegram } from "react-icons/fa6";
+import { IoLogoTiktok } from "react-icons/io5";
+import { FaReddit } from "react-icons/fa";
 
 function Footer() {
   return (
@@ -34,6 +36,18 @@ function Footer() {
                   className=" text-xl text-black bg-[#ffffff] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                  <img src="images/cmc.png" alt="" className=" w-auto h-5" />
+                </a>
+                <a
+                  href="https://www.tiktok.com/@neirowifhat?_t=8qq0vacfLBm&_r=1" target="_blank"  rel="noreferrer"
+                  className=" text-xl text-black bg-[#ffffff] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
+                >
+                 <IoLogoTiktok />
+                </a>
+                <a
+                  href="https://www.reddit.com/r/NeiroWifHat/s/d0AUa5oaDA" target="_blank"  rel="noreferrer"
+                  className=" text-xl text-black bg-[#ffffff] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
+                >
+                 <FaReddit />
                 </a>
               </div>
 
