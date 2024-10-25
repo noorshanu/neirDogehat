@@ -22,7 +22,7 @@ function AboutUs() {
             <div className=" w-full sm:w-1/2 ">
               <div className="bg-[#be22f7] border-4 box-s2 rounded-2xl border-black py-2 max-w-sm mx-auto px-2 -rotate-3">
                 <h1 className="text-center font-bold text-xl">
-                  DOGE SISTER IS OFF THE LEASH! Exchange listing is coming on
+                  KABOSU SISTER IS OFF THE LEASH! Exchange listing is coming on
                   Nov 5th!
                 </h1>
               </div>
@@ -32,11 +32,11 @@ function AboutUs() {
                   The Heartbeat of Solana's Meme Community
                 </h1>
                 <p className=" mx-auto text-center px-2 text-base font-medium  text-black">
-                NeiroWifHat – the OG hat-wearing Doge, the real sister of NEIRO!
-              Leading the Neiro Army like an absolute boss: Bulls? Bears? HA!
-              It’s all about memes and fueled by Lambo dreams, bro! The grind?
-              Simple—laugh our way straight to the moon, in pure alpha style.
-              VROOOOOM
+                  NEIROH, our sweet 10-year-old rescue dog, has joined the Doge
+                  family, bringing joy and wagging tails. In memory of the
+                  legendary Kabosu, we’re here to give NEIROH a special gift—a
+                  cozy hat that reflects her beautiful spirit and the love she
+                  brings into our lives.
                 </p>
               </div>
             </div>
