@@ -44,7 +44,7 @@ const Accordion = () => {
           content="Mark your calendars for November 1st, when we'll make the exciting announcement!"
         />
         <AccordionItem
-          title="Is $$NEIROH a good investment?"
+          title="Is NEIROH a good investment?"
           content=" It is a memecoin featuring Doge's sister with a hat & upcoming utility. Remember, memecoins can be volatile. Research thoroughly & invest wisely!"
         />
     
@@ -55,7 +55,7 @@ const Accordion = () => {
           content="YES, LP locked after seeding on Raydium."
         />
          <AccordionItem
-          title="What is the future of $NEIROH?"
+          title="What is the future of NEIROH?"
           content="Season 1 of Doge's adventures will be released every week. With multiple fun and new things being worked "
         />
       </div>

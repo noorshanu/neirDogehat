@@ -23,7 +23,7 @@ const Slider = () => {
     },
     {
       title: ' 4',
-      pretitle:'BUY $NEIROH',
+      pretitle:'BUY NEIROH',
       content: 'CONNECT YOUR WALLET TO A DECENTRALIZED EXCHANGE LIKE JUPITER OR RAYDIUM'
     }
   ];
