@@ -42,10 +42,10 @@ function HowToBuy() {
               className="h-[220px] img-hov cursor-pointer rounded-2xl"
             />
             <a
-              href="/"
-              className=" bg-white border-4 box-s2 px-4 py-1 border-black rounded-full text-2xl font-bold font-little"
+              href="https://jup.ag/swap/SOL-BJ2ENyjuBGUQJr6CCDBcGAQNQDbayoNbDziDGrWSQQ4" target="_blank"
+              className=" bg-white border-4 box-s2 px-4 py-1 border-black rounded-full text-2xl font-bold font-little" rel="noreferrer"
             >
-              Buy $NEIROH
+              Buy NEIROH
             </a>
           </div>
 

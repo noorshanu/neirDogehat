@@ -14,9 +14,9 @@ function Footer() {
             <p className=" text-white">Copyright © 2024 NeiroWifHat - All Rights Reserved.</p>
           </div>
           <div className=" flex items-center gap-4 text-white  ml-5">
-        <a
+          <a
                   href="https://x.com/NeiroWifHatSol_?t=TNEd9laESB1-7SfVRZ1nuQ&s=09" rel="noreferrer" target="_blank"
-                  className=" text-xl text-black bg-[#be22f7] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
+                  className=" text-xl text-black bg-[#ffffff] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <BsTwitterX />
                 </a>
@@ -25,9 +25,15 @@ function Footer() {
 
                 <a
                   href="https://t.me/NeiroWifHat_SOLANA" target="_blank"  rel="noreferrer"
-                  className=" text-xl text-black bg-[#be22f7] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
+                  className=" text-xl text-black bg-[#ffffff] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <FaTelegram />
+                </a>
+                <a
+                  href="https://coinmarketcap.com/currencies/neirowifhatA" target="_blank"  rel="noreferrer"
+                  className=" text-xl text-black bg-[#ffffff] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
+                >
+                 <img src="images/cmc.png" alt="" className=" w-auto h-5" />
                 </a>
               </div>
 
