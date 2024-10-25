@@ -42,7 +42,7 @@ function HowToBuy() {
               className="h-[220px] img-hov cursor-pointer rounded-2xl"
             />
             <a
-              href="https://jup.ag/swap/SOL-BJ2ENyjuBGUQJr6CCDBcGAQNQDbayoNbDziDGrWSQQ4" target="_blank"
+              href="https://raydium.io/swap/?inputMint=So11111111111111111111111111111111111111112&outputMint=BJ2ENyjuBGUQJr6CCDBcGAQNQDbayoNbDziDGrWSQQ4" target="_blank"
               className=" bg-white border-4 box-s2 px-4 py-1 border-black rounded-full text-2xl font-bold font-little" rel="noreferrer"
             >
               Buy NEIROH

@@ -33,18 +33,26 @@ function Hero() {
             <div className=" mt-4 flex gap-2 items-start justify-start">
               <a
                 href="https://www.dextools.io/app/en/token/neirowifhat?t=1729839618061"
-                className="  font-dream box-s2  text-base  sm:text-xl text-black bg-[#ffffff] hover:bg-[#be22f7] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff] w-[160px] sm:w-[200px] text-center font-bold uppercase"
+                className="  font-dream box-s2  text-base  sm:text-xl text-black bg-[#ffffff] hover:bg-[#be22f7] rounded-full py-2 px-3 border-2 border-[#000]  hover:text-[#fff]  text-center font-bold uppercase"
               >
                 {" "}
-                DexTools
+                <img src="images/dextools.svg" alt="" className="w-auto h-16" />
+                
               </a>
 
               <a
                 href="https://dexscreener.com/solana/hmkxdwjebumoojotrldevmwkn9sfe7qrhauyxoykbbyi"
-                className="  font-dream box-s2  text-base  sm:text-xl text-black bg-[#ffffff] hover:bg-[#be22f7] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff] w-[160px] sm:w-[200px] text-center font-bold uppercase"
+                className="  font-dream box-s2  text-base  sm:text-xl text-black bg-[#ffffff] hover:bg-[#be22f7] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]  text-center font-bold uppercase"
               >
                 {" "}
-                DEXSCREENER
+                <img src="images/dex.png" alt=""  className="w-auto h-16 rounded-full"/>
+              </a>
+              <a
+                href="https://jup.ag/swap/SOL-BJ2ENyjuBGUQJr6CCDBcGAQNQDbayoNbDziDGrWSQQ4"
+                className="  font-dream box-s2  text-base  sm:text-xl text-black bg-[#ffffff] hover:bg-[#be22f7] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]  text-center font-bold uppercase"
+              >
+                {" "}
+                <img src="images/jup.png" alt=""  className="w-auto h-16 rounded-full"/>
               </a>
             </div>
           </div>
