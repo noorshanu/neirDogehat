@@ -7,7 +7,7 @@ function Faq() {
     <div className=' container-wrapper my-4'>
         <div className=' bg-white border-4 border-black rounded-3xl p-4'>
 
-            <h1 className=' text-3xl sm:text-7xl font-dream font-bold text-center'>FAQ $NEIROH</h1>
+            <h1 className=' text-3xl sm:text-7xl font-dream font-bold text-center'>FAQ NEIROH</h1>
 
             <div className=' flex justify-around items-center flex-col sm:flex-row'>
 
