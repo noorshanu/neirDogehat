@@ -14,7 +14,7 @@ const Slider = () => {
     {
       title: ' 2',
       pretitle:'SEND YOUR SOLANA TO A WALLET',
-      content: 'CREATE AN ACCOUNT WITH PHANTOM, BACKPACK OR ANY WALLET OF YOUR CHOICE'
+      content: 'CREATE AN ACCOUNT WITH PHANTOM,  Solflare wallet OR ANY WALLET OF YOUR CHOICE'
     },
     {
       title: '3',
