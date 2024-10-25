@@ -40,12 +40,12 @@ const Accordion = () => {
     <div className="mx-auto mt-10 p-4 rounded-lg flex flex-col sm:flex-row justify-center items-center gap-3">
       <div className="w-full sm:w-1/2">
         <AccordionItem
-          title="WHAT IS THE TREASURY"
-          content="The treasury is basically our 'bank' we will use this for marketing costs, listing on CEX's and burning / giving away to holders."
+          title="When can we expect the CEX listing?"
+          content="Mark your calendars for November 1st, when we'll make the exciting announcement!"
         />
         <AccordionItem
           title="Is $$NEIROH a good investment?"
-          content=" its a fictional character and memecoin with no utility. Please invest at your own risk, and as always. Do you own research."
+          content=" It is a memecoin featuring Doge's sister with a hat & upcoming utility. Remember, memecoins can be volatile. Research thoroughly & invest wisely!"
         />
     
       </div>
