@@ -4,7 +4,7 @@ function TokenInfo() {
   return (
     <>
     
-    <div className="flex flex-col space-y-5 lg:space-y-0 lg:flex-row items-center justify-center lg:space-x-10 font-little">
+    <div className="flex flex-col space-y-5 lg:space-y-0 lg:flex-row items-center justify-center lg:space-x-10 font-little" id='col'>
           <div className="bg-white text-black rounded-[30px] p-5" data-aos="fade-right" data-aos-duration="1500">
             <p className="text-[52px] leading-[50px] mb-5">
               Token <br/>
