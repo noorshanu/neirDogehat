@@ -19,7 +19,7 @@ const AccordionItem = ({ title, content }) => {
         className="flex justify-between w-full p-4 text-left text-lg font-medium text-black focus:outline-none"
         onClick={toggleOpen}
       >
-        <span>{title}</span>
+        <span className=' uppercase'>{title}</span>
         <span>{isOpen ? '-' : '+'}</span>
       </button>
       <div
