@@ -3,7 +3,7 @@ import TokenInfo from "./TokenInfo";
 
 function Taxs() {
   return (
-    <section className=" pt-[10%] pb-[15%]  relative ">
+    <section className=" pt-[10%] pb-[15%]  relative bg-sol ">
 
 <img
         src="images/coin.png"
