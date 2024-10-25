@@ -36,11 +36,11 @@ const Slider = () => {
     <div className="slider h-auto sm:h-[320px] relative ">
       <div className="slider-content">
         <div className="slide" key={currentStep}>
-          <h2 className=' font-bold font-dream text-3xl p-2 box-s2 rounded-full bg-[#f4dc75] border-2 border-black w-14 h-auto text-center absolute -top-12 -left-4 '>{steps[currentStep].title}</h2>
+          <h2 className=' font-bold font-dream text-3xl p-2 box-s2 rounded-full bg-[#be22f7] border-2 border-black w-14 h-auto text-center absolute -top-12 -left-4 '>{steps[currentStep].title}</h2>
           <h2 className=' font-bold font-dream text-3xl py-2'>{steps[currentStep].pretitle}</h2>
           <p>{steps[currentStep].content}</p>
         </div>
-        <button onClick={handleNext} className=' font-bold text-2xl font-dream flex items-center justify-center gap-2 bg-[#f4dc75] mt-4 rounded-full border-2 border-black'>  Next <FaArrowRightLong className=' mt-2' /></button>
+        <button onClick={handleNext} className=' font-bold text-2xl font-dream flex items-center justify-center gap-2 bg-[#be22f7] mt-4 rounded-full border-2 border-black'>  Next <FaArrowRightLong className=' mt-2' /></button>
       </div>
       <div className="indicator-container">
         {steps.map((step, index) => (

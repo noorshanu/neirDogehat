@@ -41,7 +41,7 @@ function App() {
 
         <div className=" relative flex flex-col sm:flex-row justify-evenly items-center gap-8 py-[2%]  ">
           <div className="bg-[#be22f7] font-little w-[calc(100vw+100px)] -translate-x-14 text-center text-[40px] lg:text-[100px] -translate-y-10 flex justify-center items-center z-30 top-0 rotate-3 h-[140px] border-y-4 border-black absolute ">
-            <p>How To Buy $BNEIRO</p>
+            <p className=" text-white">How To Buy $NEIROH</p>
           </div>
         </div>
         <HowToBuy />

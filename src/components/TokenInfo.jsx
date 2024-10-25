@@ -11,17 +11,26 @@ function TokenInfo() {
               Information
             </p>
             <ul className="flex flex-col space-y-4">
-              <li className="bg-[#f4dc75] justify-between space-x-10 items-center p-2 rounded-[20px] border-2 px-5 border-black flex">
-                <p className="font-bold text-[36px]">Token Name</p>
-                <p className="text-[24px]">$BNEIRO</p>
+              <li className="bg-[#be22f7] justify-between space-x-10 items-center p-2 rounded-[20px] border-2 px-5 border-black flex">
+                <p className="font-bold text-[36px] text-white">Token Name</p>
+                <p className="text-[24px] text-white">$NEIROH</p>
               </li>
-              <li className="bg-[#f4dc75] justify-between items-center p-2 rounded-[20px] border-2 px-5 border-black flex">
-                <p className="font-bold text-[36px]">NETWORK</p>
-                <p className="text-[24px]">SOLANA</p>
-              </li>
-              <li className="bg-[#f4dc75] justify-between items-center p-2 rounded-[20px] border-2 px-5 border-black flex">
+          
+              <li className="bg-[#be22f7] text-white justify-between items-center p-2 rounded-[20px] border-2 px-5 border-black flex">
                 <p className="font-bold text-[36px]">NO TAX</p>
                 <p className="text-[24px]">0/0</p>
+              </li>
+              <li className="bg-[#be22f7] text-white justify-between items-center p-2 rounded-[20px] border-2 px-5 border-black flex">
+                <p className="font-bold text-[36px]"> Supply Burn</p>
+                <p className="text-[24px]">25%</p>
+              </li>
+              <li className="bg-[#be22f7] text-white justify-between items-center p-2 rounded-[20px] border-2 px-5 border-black flex">
+                <p className="font-bold text-[36px]"> CEX listing</p>
+                <p className="text-[24px]">10%</p>
+              </li>
+              <li className="bg-[#be22f7] text-white justify-between items-center p-2 rounded-[20px] border-2 px-5 border-black flex">
+                <p className="font-bold text-[36px]"> Public</p>
+                <p className="text-[24px]">65%</p>
               </li>
             </ul>
           </div>
@@ -31,19 +40,19 @@ function TokenInfo() {
               Information
             </p>
             <ul className="flex flex-col space-y-4">
-              <li className="bg-[#f4dc75] flex-col lg:flex-row justify-between space-x-2 items-center p-2 rounded-[20px] border-2 px-5 border-black flex">
+              <li className="bg-[#be22f7] text-white flex-col lg:flex-row justify-between space-x-2 items-center p-2 rounded-[20px] border-2 px-5 border-black flex">
                 <p className="font-bold text-[36px]">CA </p>
-                <p className="text-[9px] lg:text-[14px]">4LctgSrwXMBt2uSmb669i4yYyEJsgrFTqyBZBjgav9Cf</p>
+                <p className="text-[9px] lg:text-[14px]">BJ2ENyjuBGUQJr6CCDBcGAQNQDbayoNbDziDGrWSQQ4</p>
               </li>
-              <li className="bg-[#f4dc75] justify-between items-center p-2 rounded-[20px] border-2 px-5 border-black flex">
+              <li className="bg-[#be22f7] text-white justify-between items-center p-2 rounded-[20px] border-2 px-5 border-black flex">
                 <p className="font-bold text-[36px]">Initial Supply</p>
                 <p className="text-[24px]">1 B</p>
               </li>
-              <li className="bg-[#f4dc75] justify-between items-center p-2 rounded-[20px] border-2 px-5 border-black flex">
+              <li className="bg-[#be22f7]  text-white justify-between items-center p-2 rounded-[20px] border-2 px-5 border-black flex">
                 <p className="font-bold text-[36px]">Circulating Supply</p>
                 <p className="text-[24px]">1 B</p>
               </li>
-              <li className="bg-[#f4dc75] justify-between items-center p-2 rounded-[20px] border-2 px-5 border-black flex">
+              <li className="bg-[#be22f7] text-white justify-between items-center p-2 rounded-[20px] border-2 px-5 border-black flex">
                 <p className="font-bold text-[36px]">Liquidity</p>
                 <p className="text-[24px]">BURNED</p>
               </li>

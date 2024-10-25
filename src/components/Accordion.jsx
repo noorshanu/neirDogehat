@@ -44,7 +44,7 @@ const Accordion = () => {
           content="The treasury is basically our 'bank' we will use this for marketing costs, listing on CEX's and burning / giving away to holders."
         />
         <AccordionItem
-          title="Is $DogeBurn a good investment?"
+          title="Is $$NEIROH a good investment?"
           content=" its a fictional character and memecoin with no utility. Please invest at your own risk, and as always. Do you own research."
         />
     
@@ -55,7 +55,7 @@ const Accordion = () => {
           content="YES, LP locked after seeding on Raydium."
         />
          <AccordionItem
-          title="What is the future of $DBurn?"
+          title="What is the future of $NEIROH?"
           content="Season 1 of Doge's adventures will be released every week. With multiple fun and new things being worked "
         />
       </div>

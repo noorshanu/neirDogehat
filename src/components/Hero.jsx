@@ -4,7 +4,7 @@ function Hero() {
   return (
     <section className=" relative   py-20 hero-main ">
       <div className=" container-wrapper  ">
-        <div className=" flex flex-col sm:flex-row justify-between  ">
+        <div className=" flex flex-col sm:flex-row justify-between gap-4  ">
           <div
             className=" w-full sm:w-1/2  ml-8 relative"
             data-aos="fade-right"
@@ -13,7 +13,7 @@ function Hero() {
             {/* <h2 className=" text-[#ffffff] text-4xl font-bold font-dream txt-s">
               Welcome To
             </h2> */}
-            <img src="images/hero.png" alt="" />
+            <img src="images/hero.png" alt="" className=" w-[300px] sm:w-auto" />
 
             {/* <h1 className=" txt-s text-[100px] font-bold text-[#be22f7] font-little stroke-black  ">
               {" "}
@@ -27,13 +27,13 @@ function Hero() {
               Simple—laugh our way straight to the moon, in pure alpha style.
               VROOOOOM
             </p>
-            <div className="bg-[#ffffff] text-black text-[14px] z-30 w-full mt-4 -rotate-3 rounded-full border-4 px-5 py-[5px] border-black font-semibold">
+            <div className="bg-[#ffffff] text-black text-[11px] sm:text-[14px] z-30 w-[350px] sm:w-full mt-4 -rotate-0 sm:-rotate-3 rounded-full border-4 px-5 py-[5px] border-black font-semibold">
             BJ2ENyjuBGUQJr6CCDBcGAQNQDbayoNbDziDGrWSQQ4
             </div>
             <div className=" mt-4 flex gap-2 items-start justify-start">
               <a
                 href="https://www.dextools.io/app/en/token/neirowifhat?t=1729839618061"
-                className="  font-dream box-s2   text-xl text-black bg-[#ffffff] hover:bg-[#be22f7] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff] w-[200px] text-center font-bold uppercase"
+                className="  font-dream box-s2  text-base  sm:text-xl text-black bg-[#ffffff] hover:bg-[#be22f7] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff] w-[160px] sm:w-[200px] text-center font-bold uppercase"
               >
                 {" "}
                 DexTools
@@ -41,7 +41,7 @@ function Hero() {
 
               <a
                 href="https://t.me/NeiroWifHat_SOLANA"
-                className="  font-dream box-s2   text-xl text-black bg-[#ffffff] hover:bg-[#be22f7] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff] w-[200px] text-center font-bold uppercase"
+                className="  font-dream box-s2  text-base  sm:text-xl text-black bg-[#ffffff] hover:bg-[#be22f7] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff] w-[160px] sm:w-[200px] text-center font-bold uppercase"
               >
                 {" "}
                 Twitter
@@ -54,7 +54,7 @@ function Hero() {
             data-aos="fade-left"
             data-aos-duration="1500"
           >
-            <img src="images/logo2.png" alt="" className=" mx-auto h-auto " />
+            <img src="images/logo2.png" alt="" className=" mx-auto h-[350px] sm:h-[auto]" />
           </div>
         </div>
       </div>

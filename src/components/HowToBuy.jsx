@@ -3,7 +3,8 @@ import Slider from "./Slider";
 
 function HowToBuy() {
   return (
-    <section className=" py-[8%]">
+    <section className=" py-[8%] hero-main relative">
+      <img src="images/water.png" alt="" className=" absolute -bottom-10 left-0" />
       <div className=" container-wrapper">
         <div className=" flex items-center justify-center gap-4">
           {/* <div
@@ -44,7 +45,7 @@ function HowToBuy() {
               href="/"
               className=" bg-white border-4 box-s2 px-4 py-1 border-black rounded-full text-2xl font-bold font-little"
             >
-              Buy $BNEIRO
+              Buy $NEIROH
             </a>
           </div>
 

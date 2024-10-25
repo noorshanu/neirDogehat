@@ -14,13 +14,13 @@ function AboutUs() {
 
       <div className=" container-wrapper pt-[5%] pb-5">
         <div className="relative  my-12  ">
-          <div className=" flex justify-between items-center ">
+          <div className=" flex justify-between items-center flex-col sm:flex-row ">
             <div className=" w-full sm:w-1/2">
               <img src="images/tax.png" alt="" className=" floating" />
             </div>
 
             <div className=" w-full sm:w-1/2 ">
-              <div className="bg-[#f4dc75] border-4 box-s2 rounded-2xl border-black py-2 max-w-sm mx-auto px-2 -rotate-3">
+              <div className="bg-[#be22f7] border-4 box-s2 rounded-2xl border-black py-2 max-w-sm mx-auto px-2 -rotate-3">
                 <h1 className="text-center font-bold text-xl">
                   DOGE SISTER IS OFF THE LEASH! Exchange listing is coming on
                   Nov 5th!
@@ -43,7 +43,7 @@ function AboutUs() {
           </div>
         </div>
 
-        <div className=" flex items-center justify-center gap-2  relative z-20 py-1 bg-[#f4dc75] border-t-2 border-l-2 border-r-2 border-black rounded-2xl w-full max-w-full sm:max-w-xl px-4 mx-auto">
+        <div className=" flex items-center justify-center gap-2  relative z-20 py-1 bg-[#ffffff] border-t-2 border-l-2 border-r-2 border-black rounded-2xl w-full max-w-full sm:max-w-xl px-4 mx-auto">
           <CopyAddress />{" "}
           <button className="copy">
             <span
