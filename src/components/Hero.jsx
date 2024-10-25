@@ -21,7 +21,7 @@ function Hero() {
             </h1> */}
 
             <p className=" text-white text-lg pr-5">
-              NeiroWifHat – the OG hat-wearing Doge, the real sister of NEIRO!
+              NeiroWifHat – the OG hat-wearing Doge, the real sister of DOGE!
               Leading the Neiro Army like an absolute boss: Bulls? Bears? HA!
               It’s all about memes and fueled by Lambo dreams, bro! The grind?
               Simple—laugh our way straight to the moon, in pure alpha style.
