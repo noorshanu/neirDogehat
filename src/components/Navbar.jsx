@@ -49,7 +49,7 @@ function Navbar() {
                   <FaTelegram />
                 </a>
                 <a
-                  href="https://coinmarketcap.com/currencies/neirowifhatA" target="_blank"  rel="noreferrer"
+                  href="https://coinmarketcap.com/currencies/neirowifhat/" target="_blank"  rel="noreferrer"
                   className=" text-xl text-black bg-[#ffffff] hover:bg-[#1a4093] hidden sm:block rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                  <img src="images/cmc.png" alt="" className=" w-auto h-5 " />
