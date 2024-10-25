@@ -40,11 +40,11 @@ function Hero() {
               </a>
 
               <a
-                href="https://t.me/NeiroWifHat_SOLANA"
+                href="https://dexscreener.com/solana/hmkxdwjebumoojotrldevmwkn9sfe7qrhauyxoykbbyi"
                 className="  font-dream box-s2  text-base  sm:text-xl text-black bg-[#ffffff] hover:bg-[#be22f7] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff] w-[160px] sm:w-[200px] text-center font-bold uppercase"
               >
                 {" "}
-                Twitter
+                DEXSCREENER
               </a>
             </div>
           </div>
