@@ -106,7 +106,7 @@ function Navbar() {
               <a href="/" className="text-[#be22f7] font-bold text-lg px-3 py-2">Home</a>
           <a href="#about" className="text-[#be22f7] font-bold text-lg px-3 py-2">About</a>
           <a href="#col" className="text-[#be22f7] font-bold text-lg px-3 py-2">Tokenomics</a>
-         
+          <a href="/images/whitepaper.pdf"  className="text-[#be22f7] font-bold text-lg px-3 py-2">Whitepaper</a>
           <a href="#contact" className="text-[#be22f7] font-bold text-lg px-3 py-2">Contact Us</a>
             
             <div className=" flex items-center gap-4 text-white mb-6 ml-5">
