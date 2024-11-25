@@ -96,6 +96,12 @@ function AboutUs() {
             </span>
           </button>
         </div>
+        <div className=" flex flex-col justify-center items-center mt-4">
+          <img src="images/game.png" alt="" className=" rounded-2xl w-full p-4 sm:w-[500px]" />
+
+          <a href="https://crypto-slot-neiro-wif-hat-game.netlify.app/" target="_blank" rel="noreferrer" className=" py-1 px-4 font-bold my-4 bg-[#ffffff] border-t-2 border-l-2 border-r-2 border-black rounded-2xl"> Click To Play</a>
+
+        </div>
       </div>
     </section>
   );

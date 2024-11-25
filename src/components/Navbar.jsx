@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Transition } from "@headlessui/react";
-import { BsTwitterX} from "react-icons/bs";
-import {  FaTelegram } from "react-icons/fa6";
+import { BsInstagram, BsTwitterX} from "react-icons/bs";
+import {  FaFacebook, FaTelegram } from "react-icons/fa6";
 import { IoLogoTiktok } from "react-icons/io5";
 import { FaReddit } from "react-icons/fa";
 
@@ -60,6 +60,16 @@ function Navbar() {
                   className=" text-xl text-black bg-[#ffffff] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                  <IoLogoTiktok />
+                </a>
+                <a href="https://www.instagram.com/neirowifhatsol/?hl=en"
+                 className=" text-xl text-black bg-[#ffffff] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
+                >
+                <BsInstagram/>
+                </a>
+                <a href="https://www.facebook.com/profile.php?id=61568601148913&mibextid=JRoKGi"
+                 className=" text-xl text-black bg-[#ffffff] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
+                >
+                <FaFacebook/>
                 </a>
               </div>
         </div>
